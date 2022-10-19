@@ -1,1 +1,1 @@
-# pizza_hut
+# pizza_inn
